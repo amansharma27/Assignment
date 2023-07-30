@@ -1,6 +1,7 @@
-#Triangular Trajectory
+# triangular_trajectory
+
 import time
-from flyt_python import api
+from flyt_python impo
 
 # Named Constants
 SIDE_LENGTH = 10.0
