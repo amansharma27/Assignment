@@ -43,7 +43,8 @@ def main():
 
         # Land the drone
         print('6. Drone is landing...')
-        drone.land(async=False)
+        drone.land(is_async=False)
+
 
     except Exception as e:
         print(f'Error occurred: {e}')
